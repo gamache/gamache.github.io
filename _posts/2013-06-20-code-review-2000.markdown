@@ -1,0 +1,669 @@
+---
+layout: post
+status: publish
+published: true
+title: Code Review 2000
+author:
+  display_name: gamache
+  login: gamache
+  email: pete@gamache.org
+  url: ''
+author_login: gamache
+author_email: pete@gamache.org
+wordpress_id: 79
+wordpress_url: http://petegamache.com/?p=79
+date: '2013-06-20 08:22:15 -0400'
+date_gmt: '2013-06-20 12:22:15 -0400'
+categories:
+- Code
+tags:
+- perl
+- code
+- code review
+- choad
+comments:
+- id: 2
+  author: Anca
+  author_email: anca-wp@anca.tv
+  author_url: ''
+  date: '2013-06-21 20:51:20 -0400'
+  date_gmt: '2013-06-22 00:51:20 -0400'
+  content: While I found this hilarious, I think you're being too hard on naive, rave-warehouse-living
+    young Peeto. :)
+- id: 5
+  author: Colby Gutierrez-Kraybill
+  author_email: colby@kraybill.com
+  author_url: ''
+  date: '2013-07-07 01:40:56 -0400'
+  date_gmt: '2013-07-07 05:40:56 -0400'
+  content: "I wish I had run across Cretin in ~2007 when I undertook ripping and encoding
+    a 700 disc collection of a friend.  IIRC, I used a combination of abcde and FLAC
+    tools+5-7 computers.  There are some lingering effects from having done this in
+    our family music library, with many FLAC->AAC encoded tracks not working for play
+    across the network in itunes, without re-encoding them.\r\n\r\nOf course, Apple
+    has totally sidestepped the issue by allowing matching and 256K AAC tracks.\r\n\r\nLately,
+    I've been pulling down FLAC 96KHz encoded music from various places that sell
+    it.  Any recommendations?"
+- id: 129
+  author: cheap new style authentic danieal manning blue white ladies mens kids online
+    shop
+  author_email: ykpolglu@gmail.com
+  author_url: http://www.tobagodiveexperience.com/news/chicharito-hernandez-mexico-jersey/custom-football-jerseys-tops/authentic-danieal-manning--blue-white--ladies-mens-kids-p-6964.html
+  date: '2014-09-10 06:14:56 -0400'
+  date_gmt: '2014-09-10 10:14:56 -0400'
+  content: "Your personal nfl jersey-rivals Doesn't Want You To View Thes advices\r\ncheap
+    new style authentic danieal manning blue white ladies mens kids online shop http:&#47;&#47;www.tobagodiveexperience.com&#47;news&#47;chicharito-hernandez-mexico-jersey&#47;custom-football-jerseys-tops&#47;authentic-danieal-manning--blue-white--ladies-mens-kids-p-6964.html"
+- id: 131
+  author: discover our latest collection of asics mexico 66 mid runner shoes white
+    orange brown we predict unlimited values
+  author_email: oafhcu@gmail.com
+  author_url: http://www.poplarmt.com/images/asics-kayano-gel/asics-overpronation-running-shoes/asics-mexico-66-mid-runner-shoes-white-orange-brown-p-6912.html
+  date: '2014-09-14 20:17:15 -0400'
+  date_gmt: '2014-09-15 00:17:15 -0400'
+  content: "Honest write-up divulges Unique fresh new stuff about asics that no company
+    is covering.\r\ndiscover our latest collection of asics mexico 66 mid runner shoes
+    white orange brown we predict unlimited values http:&#47;&#47;www.poplarmt.com&#47;images&#47;asics-kayano-gel&#47;asics-overpronation-running-shoes&#47;asics-mexico-66-mid-runner-shoes-white-orange-brown-p-6912.html"
+- id: 132
+  author: genuine colin kaepernick jersey nike 49ers authentic colin kaepernick purple
+    white gold online shop
+  author_email: jvllrvfd@gmail.com
+  author_url: http://www.maximumperformanceonline.net/news/2013-nba-jerseys/custom-cheap-baseball-jerseys/colin-kaepernick-jersey-nike-49ers-authentic-colin-kaepernick-purple-white-gold-p-4967.html
+  date: '2014-09-14 20:51:13 -0400'
+  date_gmt: '2014-09-15 00:51:13 -0400'
+  content: "This is basically the nfl jersey truth your Parents does not want one
+    to find out !\r\ngenuine colin kaepernick jersey nike 49ers authentic colin kaepernick
+    purple white gold online shop http:&#47;&#47;www.maximumperformanceonline.net&#47;news&#47;2013-nba-jerseys&#47;custom-cheap-baseball-jerseys&#47;colin-kaepernick-jersey-nike-49ers-authentic-colin-kaepernick-purple-white-gold-p-4967.html"
+- id: 133
+  author: best value christian louboutin ankle boots stil de grayellow taupe store
+    online
+  author_email: oibehqab@gmail.com
+  author_url: http://www.jwheller.com/images/christian-louboutin-sneakers-women/christian-louboutin-ankle-boots-stil-de-grayellow-taupe-p-5381.html
+  date: '2014-09-16 21:15:54 -0400'
+  date_gmt: '2014-09-17 01:15:54 -0400'
+  content: "cl brings completely new life to the old challenge- defacto primary\r\nbest
+    value christian louboutin ankle boots stil de grayellow taupe store online http:&#47;&#47;www.jwheller.com&#47;images&#47;christian-louboutin-sneakers-women&#47;christian-louboutin-ankle-boots-stil-de-grayellow-taupe-p-5381.html"
+- id: 134
+  author: high quality men louis vuitton taiga leather florin wallet gray m31112 outlet
+    online sale
+  author_email: leiiabbbu@gmail.com
+  author_url: http://www.mizoneuae.com/include/louis-vuitton-bag-styles/stores-that-sell-louis-vuitton-bags/men-louis-vuitton-taiga-leather-florin-wallet-gray-m31112-p-4249.html
+  date: '2014-09-16 21:58:59 -0400'
+  date_gmt: '2014-09-17 01:58:59 -0400'
+  content: "Howcome no-one is referfing to lv and for that cause things one should
+    do right now.\r\nhigh quality men louis vuitton taiga leather florin wallet gray
+    m31112 outlet online sale http:&#47;&#47;www.mizoneuae.com&#47;include&#47;louis-vuitton-bag-styles&#47;stores-that-sell-louis-vuitton-bags&#47;men-louis-vuitton-taiga-leather-florin-wallet-gray-m31112-p-4249.html"
+- id: 143
+  author: christmas nike marques colston womens jersey saints black blue white authentic
+    online store
+  author_email: hjyyu889kjh@gmail.com
+  author_url: http://www.levelbbar.com/css/nba-jerseys-wholesale-from-china/buy-customized-nba-jerseys/mnkpfcvd-p-229.html
+  date: '2014-09-20 21:26:06 -0400'
+  date_gmt: '2014-09-21 01:26:06 -0400'
+  content: "This nfl jersey is actually genuinely terrific, it has lots of features
+    as well as features.\r\nchristmas nike marques colston womens jersey saints black
+    blue white authentic online store http:&#47;&#47;www.levelbbar.com&#47;css&#47;nba-jerseys-wholesale-from-china&#47;buy-customized-nba-jerseys&#47;mnkpfcvd-p-229.html"
+- id: 146
+  author: 2014 new cheap colts andrew luck green orange white jersey nike womens mens
+    at our professional store
+  author_email: hjyyu889kjh@gmail.com
+  author_url: http://www.charliemere.com/holly/buy-blank-basketball-jerseys/nfl-wholesale-jerseys-chicago-bears/fbawnura-p-837.html
+  date: '2014-09-20 22:14:01 -0400'
+  date_gmt: '2014-09-21 02:14:01 -0400'
+  content: "Report of favorable approaches to discover nfl jersey well before you're
+    left out.\r\n2014 new cheap colts andrew luck green orange white jersey nike womens
+    mens at our professional store http:&#47;&#47;www.charliemere.com&#47;holly&#47;buy-blank-basketball-jerseys&#47;nfl-wholesale-jerseys-chicago-bears&#47;fbawnura-p-837.html"
+- id: 152
+  author: buy 1 free 1 nike victor cruz womens jersey giants black orange white authentic
+    feed the family for less
+  author_email: unckee@gmail.com
+  author_url: http://www.abstractedmind.com/amnew/wholesale-football-carolina-panther-jerseys/reebok-authentic-football-jerseys/tglzaalw-p-543.html
+  date: '2014-09-21 01:27:15 -0400'
+  date_gmt: '2014-09-21 05:27:15 -0400'
+  content: "Contemporary queries about nfl jersey answered and in addition the reason
+    why you have got to read through every single word of this story.\r\nbuy 1 free
+    1 nike victor cruz womens jersey giants black orange white authentic feed the
+    family for less http:&#47;&#47;www.abstractedmind.com&#47;amnew&#47;wholesale-football-carolina-panther-jerseys&#47;reebok-authentic-football-jerseys&#47;tglzaalw-p-543.html"
+- id: 157
+  author: best cheap jake locker jersey nike titans authentic jake locker brown orange
+    white garden fresh vegetables
+  author_email: rtiofe@gmail.com
+  author_url: http://www.susanwhymark.co.uk/Styles/authentic-nfl-jerseys-customized/lkqcdonr-p-283.html
+  date: '2014-09-21 03:17:42 -0400'
+  date_gmt: '2014-09-21 07:17:42 -0400'
+  content: "Exactly who must I tweet? nfl jersey enthusiasts on the subject of Tweets\r\nbest
+    cheap jake locker jersey nike titans authentic jake locker brown orange white
+    garden fresh vegetables http:&#47;&#47;www.susanwhymark.co.uk&#47;Styles&#47;authentic-nfl-jerseys-customized&#47;lkqcdonr-p-283.html"
+- id: 158
+  author: the latest nike authentic redskins london fletcher jersey womens mens youth
+    signed on sales
+  author_email: dckrunl@gmail.com
+  author_url: http://www.purentonline.com/abouts/soccer-replica-jersey/uconn-football-jerseys/ehttvwex-p-922.html
+  date: '2014-09-21 03:33:50 -0400'
+  date_gmt: '2014-09-21 07:33:50 -0400'
+  content: "The things Each of us Ought To Know With Regards To nfl jersey Business\r\nthe
+    latest nike authentic redskins london fletcher jersey womens mens youth signed
+    on sales http:&#47;&#47;www.purentonline.com&#47;abouts&#47;soccer-replica-jersey&#47;uconn-football-jerseys&#47;ehttvwex-p-922.html"
+- id: 167
+  author: buy authentic designer nike marshawn lynch womens jersey seahawks black
+    orange white authentic uk sale
+  author_email: ieikgdexgrr@gmail.com
+  author_url: http://www.hansprunner.com/estore/cheap-nhl-jerseys-from-china-free-shipping/nike-marshawn-lynch-womens-jersey-seahawks-black-orange-white-authentic-p-2228.html
+  date: '2014-09-21 06:54:31 -0400'
+  date_gmt: '2014-09-21 10:54:31 -0400'
+  content: "Frustrated With nfl jersey ? Then you should look at this\r\nbuy authentic
+    designer nike marshawn lynch womens jersey seahawks black orange white authentic
+    uk sale http:&#47;&#47;www.hansprunner.com&#47;estore&#47;cheap-nhl-jerseys-from-china-free-shipping&#47;nike-marshawn-lynch-womens-jersey-seahawks-black-orange-white-authentic-p-2228.html"
+- id: 168
+  author: cheap luxurious authentic dee milliner navy white gold ladies mens kids
+    outle
+  author_email: lslclnokoi@gmail.com
+  author_url: http://www.dogsinthepark.ca/raw/giants-kids-jersey/colorful-custom-soccer-jerseys-cheap-sale/authentic-dee-milliner--navy-white-gold-ladies-mens-kids-p-4402.html
+  date: '2014-09-21 06:58:22 -0400'
+  date_gmt: '2014-09-21 10:58:22 -0400'
+  content: "This Is A Secret In order to Obtain nfl jersey Know-how\r\ncheap luxurious
+    authentic dee milliner navy white gold ladies mens kids outle http:&#47;&#47;www.dogsinthepark.ca&#47;raw&#47;giants-kids-jersey&#47;colorful-custom-soccer-jerseys-cheap-sale&#47;authentic-dee-milliner--navy-white-gold-ladies-mens-kids-p-4402.html"
+- id: 170
+  author: mad moonlight markdown matt forte brown orange white jersey nike throwback
+    bears elite factory price
+  author_email: bauoopfgzjy@gmail.com
+  author_url: http://www.caritasfamilymed.com/media/nfl-stitched-jerseys-china/cheap-authentic-reebok-nfl-jerseys/owoiufzz-p-682.html
+  date: '2014-09-21 09:26:05 -0400'
+  date_gmt: '2014-09-21 13:26:05 -0400'
+  content: "Do the following to discover nfl jersey well before you are left behind.\r\nmad
+    moonlight markdown matt forte brown orange white jersey nike throwback bears elite
+    factory price http:&#47;&#47;www.caritasfamilymed.com&#47;media&#47;nfl-stitched-jerseys-china&#47;cheap-authentic-reebok-nfl-jerseys&#47;owoiufzz-p-682.html"
+- id: 172
+  author: 'lowest price vonta leach game jersey: ravens womens youth purple black
+    white hot sale online'
+  author_email: xsssnl@gmail.com
+  author_url: http://www.akumaneko.com/products/baby-hockey-jerseys/super-bowl-jerseys-bar-mn/fnxralrk-p-468.html
+  date: '2014-09-21 10:17:44 -0400'
+  date_gmt: '2014-09-21 14:17:44 -0400'
+  content: "Just About The Most Comprehensive nfl jersey Tutorial You Ever Seen Or
+    else Your Money Back\r\nlowest price vonta leach game jersey: ravens womens youth
+    purple black white hot sale online http:&#47;&#47;www.akumaneko.com&#47;products&#47;baby-hockey-jerseys&#47;super-bowl-jerseys-bar-mn&#47;fnxralrk-p-468.html"
+- id: 176
+  author: secure shopping sam bradford red white gold jersey nike throwback rams elite
+    factory outlet
+  author_email: whuwfjp@gmail.com
+  author_url: http://www.louisfusco.com/css/cotton-button-baseball-jerseys/nfl-sport-jerseys/fuhevpyv-p-673.html
+  date: '2014-09-21 14:37:51 -0400'
+  date_gmt: '2014-09-21 18:37:51 -0400'
+  content: "The Astounding Hidden secret Of Methods One Might Master nfl jersey Without
+    Having Any Past experience!\r\nsecure shopping sam bradford red white gold jersey
+    nike throwback rams elite factory outlet http:&#47;&#47;www.louisfusco.com&#47;css&#47;cotton-button-baseball-jerseys&#47;nfl-sport-jerseys&#47;fuhevpyv-p-673.html"
+- id: 177
+  author: hot value authentic cameron wake navy white silver ladies mens kids enter
+    the saving zone
+  author_email: pqsvvzyr@gmail.com
+  author_url: http://www.victorianvintagespeedway.com/flash/wholesale-jerseys-nfl-authentic/authentic-pro-bowl-jerseys-2010/bdrzbzyd-p-563.html
+  date: '2014-09-21 19:01:40 -0400'
+  date_gmt: '2014-09-21 23:01:40 -0400'
+  content: "nfl jersey Announcement Programs Obtain Updates Immediately\r\nhot value
+    authentic cameron wake navy white silver ladies mens kids enter the saving zone
+    http:&#47;&#47;www.victorianvintagespeedway.com&#47;flash&#47;wholesale-jerseys-nfl-authentic&#47;authentic-pro-bowl-jerseys-2010&#47;bdrzbzyd-p-563.html"
+- id: 179
+  author: price explosion authentic mike wallace navy white silver ladies mens kids
+    on sale online
+  author_email: bvkcuu@gmail.com
+  author_url: http://www.colegionicolasbravo.com/images/new-ncaa-jerseys/authentic-sam-bradford--black-orange-white-ladies-mens-kids-p-2948.html
+  date: '2014-09-22 06:42:52 -0400'
+  date_gmt: '2014-09-22 10:42:52 -0400'
+  content: "Secure : This Cover Nearly everything around nfl jersey\r\nprice explosion
+    authentic mike wallace navy white silver ladies mens kids on sale online http:&#47;&#47;www.colegionicolasbravo.com&#47;images&#47;new-ncaa-jerseys&#47;authentic-sam-bradford--black-orange-white-ladies-mens-kids-p-2948.html"
+- id: 182
+  author: wholesale cheap gucci 2012 sneakers in canvas in white g486 save now
+  author_email: dqtftfgekpy@gmail.com
+  author_url: http://www.klfilterwizard.com/products/rent-herve-leger-dress/ogtlhapn-p-998.html
+  date: '2014-09-22 13:15:32 -0400'
+  date_gmt: '2014-09-22 17:15:32 -0400'
+  content: "The following have got to be the best kept gucci secrets on the planet\r\nwholesale
+    cheap gucci 2012 sneakers in canvas in white g486 save now http:&#47;&#47;www.klfilterwizard.com&#47;products&#47;rent-herve-leger-dress&#47;ogtlhapn-p-998.html"
+- id: 186
+  author: price melt down authentic paul kruger jersey womens mens youth blue white
+    red online sale
+  author_email: ieikgdexgrr@gmail.com
+  author_url: http://www.dinocasts.com/New/cheap-basketball-practice-jerseys/cheap-sports-jerseys-canada/authentic-paul-kruger-jersey-p-5341.html
+  date: '2014-09-22 20:21:48 -0400'
+  date_gmt: '2014-09-23 00:21:48 -0400'
+  content: "Get. . .This Sums Up Pretty much everything when it comes to nfl jersey\r\nprice
+    melt down authentic paul kruger jersey womens mens youth blue white red online
+    sale http:&#47;&#47;www.dinocasts.com&#47;New&#47;cheap-basketball-practice-jerseys&#47;cheap-sports-jerseys-canada&#47;authentic-paul-kruger-jersey-p-5341.html"
+- id: 188
+  author: wholesale cheap authentic danieal manning jersey womens mens youth blue
+    white red online
+  author_email: lslclnokoi@gmail.com
+  author_url: http://www.candlelightconcert.org/artists/kids-soccer-jerseys-cheap-manufacturers/basketball-jerseys-and-uniforms/ixgmmzkk-p-607.html
+  date: '2014-09-22 20:34:51 -0400'
+  date_gmt: '2014-09-23 00:34:51 -0400'
+  content: "Marketplace Gossip - nfl jersey Understood to be Essential In the present
+    day\r\nwholesale cheap authentic danieal manning jersey womens mens youth blue
+    white red online http:&#47;&#47;www.candlelightconcert.org&#47;artists&#47;kids-soccer-jerseys-cheap-manufacturers&#47;basketball-jerseys-and-uniforms&#47;ixgmmzkk-p-607.html"
+- id: 191
+  author: new arrival cheap nike ravens authentic ray lewis blue navy white jerseys
+    free shipping wholesale
+  author_email: midxhqrcpf@gmail.com
+  author_url: http://www.hcdubai.com/discount/cheap-vintage-baseball-jerseys-mlb/celtics-jersey-youth/hrvnctpi-p-14.html
+  date: '2014-09-23 01:28:03 -0400'
+  date_gmt: '2014-09-23 05:28:03 -0400'
+  content: "Get Rid Of nfl jersey Issues Permanently\r\nnew arrival cheap nike ravens
+    authentic ray lewis blue navy white jerseys free shipping wholesale http:&#47;&#47;www.hcdubai.com&#47;discount&#47;cheap-vintage-baseball-jerseys-mlb&#47;celtics-jersey-youth&#47;hrvnctpi-p-14.html"
+- id: 195
+  author: new style terrell suggs jersey
+  author_email: fidxib@gmail.com
+  author_url: http://www.longlakehockey.com/products/world-cup-jersey/custom-nike-lacrosse-jerseys/adhqiade-p-446.html
+  date: '2014-09-23 02:48:36 -0400'
+  date_gmt: '2014-09-23 06:48:36 -0400'
+  content: "Turn that nfl jersey into a complete Goldmine\r\nnew style terrell suggs
+    jersey http:&#47;&#47;www.longlakehockey.com&#47;products&#47;world-cup-jersey&#47;custom-nike-lacrosse-jerseys&#47;adhqiade-p-446.html"
+- id: 197
+  author: designer authentic arian foster green orange white ladies mens kids early
+    bird specials
+  author_email: yxtfub@gmail.com
+  author_url: http://www.alonarodeh.com/content/cheap-nike-team-jerseys-uniforms/buy-nfl-jerseys-cheap-replica/authentic-arian-foster--green-orange-white-ladies-mens-kids-p-4150.html
+  date: '2014-09-23 04:49:55 -0400'
+  date_gmt: '2014-09-23 08:49:55 -0400'
+  content: "Likely The Most Comprehensive nfl jersey Guide book You Ever Seen Or else
+    Your Cash Back\r\ndesigner authentic arian foster green orange white ladies mens
+    kids early bird specials http:&#47;&#47;www.alonarodeh.com&#47;content&#47;cheap-nike-team-jerseys-uniforms&#47;buy-nfl-jerseys-cheap-replica&#47;authentic-arian-foster--green-orange-white-ladies-mens-kids-p-4150.html"
+- id: 199
+  author: genuine ugg dakota 1650 chestnut slippers off 60%
+  author_email: vsqcgxsqmdz@gmail.com
+  author_url: http://www.hdgolf.org/news/ugg-boots-sale-men/ugg-boots-classic-tall/ugg-dakota-1650-chestnut-slippers-p-9035.html
+  date: '2014-09-23 05:40:21 -0400'
+  date_gmt: '2014-09-23 09:40:21 -0400'
+  content: "The ugg-blast Definitely makes the entire ugg process So Exciting\r\ngenuine
+    ugg dakota 1650 chestnut slippers off 60% http:&#47;&#47;www.hdgolf.org&#47;news&#47;ugg-boots-sale-men&#47;ugg-boots-classic-tall&#47;ugg-dakota-1650-chestnut-slippers-p-9035.html"
+- id: 201
+  author: lowest price chiefs alex smith green orange white jersey nike womens mens
+    2014 sale outlet
+  author_email: unckee@gmail.com
+  author_url: http://www.studiohiggins.com/html/wholesale-vintage-nhl-jerseys/qqxzwqgq-p-970.html
+  date: '2014-09-23 07:23:42 -0400'
+  date_gmt: '2014-09-23 11:23:42 -0400'
+  content: "Quite Possibly The Most Comprehensive nfl jersey Report You Ever Read
+    Otherwise Your Cash Back\r\nlowest price chiefs alex smith green orange white
+    jersey nike womens mens 2014 sale outlet http:&#47;&#47;www.studiohiggins.com&#47;html&#47;wholesale-vintage-nhl-jerseys&#47;qqxzwqgq-p-970.html"
+- id: 202
+  author: discover our latest collection of nike jimmy graham womens jersey saints
+    black orange white authentic at our professional online store
+  author_email: kuanhuyt5rgv@gmail.com
+  author_url: http://www.dcgwest.com/contact/reebok-nfl-jerseys-limited/hockey-jerseys-winter-classic/nike-jimmy-graham-womens-jersey-p-202.html
+  date: '2014-09-23 07:39:58 -0400'
+  date_gmt: '2014-09-23 11:39:58 -0400'
+  content: "Check who's raving about nfl jersey and precisely why you ought to be
+    worried.\r\ndiscover our latest collection of nike jimmy graham womens jersey
+    saints black orange white authentic at our professional online store http:&#47;&#47;www.dcgwest.com&#47;contact&#47;reebok-nfl-jerseys-limited&#47;hockey-jerseys-winter-classic&#47;nike-jimmy-graham-womens-jersey-p-202.html"
+- id: 203
+  author: how to buy lance briggs jersey nike bears authentic lance briggs navy red
+    white take a walk down our aisles and save
+  author_email: rqpolxel@gmail.com
+  author_url: http://www.aiccnc.org/abouts/nfl-jerseys-cheap-in-usa/reebok-nfl-nba-jerseys-in-san-diego/lance-briggs-jersey-nike-bears-authentic-lance-briggs-navy-red-white-p-6776.html
+  date: '2014-09-23 07:45:07 -0400'
+  date_gmt: '2014-09-23 11:45:07 -0400'
+  content: "nfl jersey is giving new life into an old topic. . . metallic standardized\r\nhow
+    to buy lance briggs jersey nike bears authentic lance briggs navy red white take
+    a walk down our aisles and save http:&#47;&#47;www.aiccnc.org&#47;abouts&#47;nfl-jerseys-cheap-in-usa&#47;reebok-nfl-nba-jerseys-in-san-diego&#47;lance-briggs-jersey-nike-bears-authentic-lance-briggs-navy-red-white-p-6776.html"
+- id: 204
+  author: designer nike bruce irvin womens jersey seahawks orange navy white authentic
+    get more green back
+  author_email: dnvuumk@gmail.com
+  author_url: http://www.hansprunner.com/estore/cheap-nhl-jerseys-from-china-free-shipping/wholesale-saints-jerseys/nike-bruce-irvin-womens-jersey-seahawks-orange-navy-white-authentic-p-265.html
+  date: '2014-09-23 09:02:05 -0400'
+  date_gmt: '2014-09-23 13:02:05 -0400'
+  content: "The nfl jersey truth your mother and father doesn't want you to know about
+    !\r\ndesigner nike bruce irvin womens jersey seahawks orange navy white authentic
+    get more green back http:&#47;&#47;www.hansprunner.com&#47;estore&#47;cheap-nhl-jerseys-from-china-free-shipping&#47;wholesale-saints-jerseys&#47;nike-bruce-irvin-womens-jersey-seahawks-orange-navy-white-authentic-p-265.html"
+- id: 215
+  author: buy best bears tim jennings purple black white jersey nike womens mens clearance
+    sale
+  author_email: whuwfjp@gmail.com
+  author_url: http://www.dhabaindianbistro.com/images/online-jersey-shop/rpthaxkm-p-906.html
+  date: '2014-09-23 17:03:41 -0400'
+  date_gmt: '2014-09-23 21:03:41 -0400'
+  content: "Loosen up and ease off While Studying the Secrets to nfl jersey\r\nbuy
+    best bears tim jennings purple black white jersey nike womens mens clearance sale
+    http:&#47;&#47;www.dhabaindianbistro.com&#47;images&#47;online-jersey-shop&#47;rpthaxkm-p-906.html"
+- id: 219
+  author: last minute outlet gucci portatessere con tasca portamonete 256235 eq91n
+    9511 bargain blitz
+  author_email: pjmhng@gmail.com
+  author_url: http://www.nuwayindustries.com/cmx/authentic-gucci-purse/gucci-size-chart/outlet-gucci-portatessere-con-tasca-portamonete-256235-eq91n-9511-p-722.html
+  date: '2014-09-23 20:27:04 -0400'
+  date_gmt: '2014-09-24 00:27:04 -0400'
+  content: "Incredible Innovative new gucci tactic Unearthed By My Mate\r\nlast minute
+    outlet gucci portatessere con tasca portamonete 256235 eq91n 9511 bargain blitz
+    http:&#47;&#47;www.nuwayindustries.com&#47;cmx&#47;authentic-gucci-purse&#47;gucci-size-chart&#47;outlet-gucci-portatessere-con-tasca-portamonete-256235-eq91n-9511-p-722.html"
+- id: 220
+  author: Gucci Lanyard
+  author_email: vdhpqp@gmail.com
+  author_url: http://www.aec-ist.com/css/Gucci-Belts-Sale-Shoes-Mens-Lanyard-Bomber-Jacket.html
+  date: '2014-09-23 20:56:27 -0400'
+  date_gmt: '2014-09-24 00:56:27 -0400'
+  content: Hey there, we were looking at your web site and it's really good. If you
+    don't mind, would you please view my web site about how to get a girlfriend. Thank
+    you.
+- id: 222
+  author: best deals of nike c.j. spiller womens jersey bills purple black white authentic
+    get off to good start with quality
+  author_email: pqsvvzyr@gmail.com
+  author_url: http://www.abstractedmind.com/amnew/cheap-nfl-jerseys-hankton/hewkvfyf-p-528.html
+  date: '2014-09-23 23:21:49 -0400'
+  date_gmt: '2014-09-24 03:21:49 -0400'
+  content: "The Best Tips On How To Gain knowledge of nfl jersey And Also The Way
+    One Can Be part of The nfl jersey Elite\r\nbest deals of nike c.j. spiller womens
+    jersey bills purple black white authentic get off to good start with quality http:&#47;&#47;www.abstractedmind.com&#47;amnew&#47;cheap-nfl-jerseys-hankton&#47;hewkvfyf-p-528.html"
+- id: 234
+  author: one day only lance moore womens mens youth jersey authentic elite limited
+    game wholesale
+  author_email: ieikgdexgrr@gmail.com
+  author_url: http://www.florencemeats.com/HTML/cheap-mlb-devo-hats-80s/cheap-orioles-jerseys/lance-moore-womens-mens-youth-jersey-authentic-elite-limited-game-p-9423.html
+  date: '2014-09-24 07:04:11 -0400'
+  date_gmt: '2014-09-24 11:04:11 -0400'
+  content: "The Best Procedures To Educate yourself about nfl jersey And Also The
+    Way One Could Link up with The nfl jersey Elite\r\none day only lance moore womens
+    mens youth jersey authentic elite limited game wholesale http:&#47;&#47;www.florencemeats.com&#47;HTML&#47;cheap-mlb-devo-hats-80s&#47;cheap-orioles-jerseys&#47;lance-moore-womens-mens-youth-jersey-authentic-elite-limited-game-p-9423.html"
+- id: 236
+  author: Christian Louboutin Heels
+  author_email: blzjwl@gmail.com
+  author_url: http://www.alportico.net/prodotti/christianlouboutin-sale.jkmsw.php
+  date: '2014-09-24 07:36:28 -0400'
+  date_gmt: '2014-09-24 11:36:28 -0400'
+  content: can be a challenging size for a woman to fit, she said.
+- id: 238
+  author: find the top sale authentic cam newton blue red white ladies mens kids offer
+  author_email: lslclnokoi@gmail.com
+  author_url: http://www.dogsinthepark.ca/raw/giants-kids-jersey/authentic-cam-newton--blue-red-white-ladies-mens-kids-p-5219.html
+  date: '2014-09-24 07:57:21 -0400'
+  date_gmt: '2014-09-24 11:57:21 -0400'
+  content: "Most of your nfl jersey-competitors Doesn't Want You To View The following\r\nfind
+    the top sale authentic cam newton blue red white ladies mens kids offer http:&#47;&#47;www.dogsinthepark.ca&#47;raw&#47;giants-kids-jersey&#47;authentic-cam-newton--blue-red-white-ladies-mens-kids-p-5219.html"
+- id: 261
+  author: buy cheap brandon marshall blue navy white jersey throwback bears elite
+    limited your best choice for value
+  author_email: cmnoomd@gmail.com
+  author_url: http://www.catchthewaveministries.com/Tracts/authentic-yankees-jerseys/fprqugbp-p-707.html
+  date: '2014-09-25 21:22:04 -0400'
+  date_gmt: '2014-09-26 01:22:04 -0400'
+  content: "Incredible Hidden-secret Of How One Might Reign over nfl jersey With Virtually
+    No Practical experience!\r\nbuy cheap brandon marshall blue navy white jersey
+    throwback bears elite limited your best choice for value http:&#47;&#47;www.catchthewaveministries.com&#47;Tracts&#47;authentic-yankees-jerseys&#47;fprqugbp-p-707.html"
+- id: 265
+  author: cheaper moncler safran coats women shiny fabric beige long soaking up summer
+    fun
+  author_email: nnwhjpy@gmail.com
+  author_url: http://www.hauinc.org/Events/moncler-for-kids/2013-new-moncler-fashion-womens-down-coats-windproof-black-p-1159.html
+  date: '2014-09-26 08:48:06 -0400'
+  date_gmt: '2014-09-26 12:48:06 -0400'
+  content: "Do the following to discover more regarding babyliss well before you're
+    abandoned.\r\ncheaper moncler safran coats women shiny fabric beige long soaking
+    up summer fun http:&#47;&#47;www.hauinc.org&#47;Events&#47;moncler-for-kids&#47;2013-new-moncler-fashion-womens-down-coats-windproof-black-p-1159.html"
+- id: 270
+  author: Yoheimi
+  author_email: hahy9kdhmp@yahoo.com
+  author_url: http://www.facebook.com/profile.php?id=100003461481001
+  date: '2014-10-03 05:32:56 -0400'
+  date_gmt: '2014-10-03 09:32:56 -0400'
+  content: The code's not working out for me. I've tried a few deefirfnt times with
+    varying results. Sometimes I can get the image, but no other info. Other times,
+    the other info and no photo. Another time, the code seemed to drastically alter
+    my theme (washing out the color on some, but not all pages..?) and then the code
+    seems to get rejected and vanishes from the theme's code.I'm using Papercut by
+    Peter Vidani.[]
+- id: 284
+  author: "&atilde;&sbquo;&laquo;&atilde;&sbquo;&middot;&atilde;&sbquo;&ordf; &atilde;&fnof;&mdash;&atilde;&fnof;&ordf;&atilde;&fnof;&sup3;&atilde;&sbquo;&iquest;&atilde;&fnof;&frac14;
+    &atilde;&fnof;&permil;&atilde;&fnof;&copy;&atilde;&sbquo;&curren;&atilde;&fnof;\x90&atilde;&fnof;&frac14;"
+  author_email: xykewpif@gmail.com
+  author_url: http://agamdesign.com/wp-content/themes/twentyeleven/casio-2219/@0@8@0@2014110716560849nz.html
+  date: '2014-11-08 06:55:03 -0500'
+  date_gmt: '2014-11-08 11:55:03 -0500'
+  content: "&auml;&frac34;&micro;&aring;&reg;&sup3;&eacute;\x81&bull;&aring;\x8F\x8Dplagorism&atilde;\x81&frac34;&atilde;\x81&Yuml;&atilde;\x81&macr;&egrave;&lsquo;&mdash;&auml;&frac12;&oelig;&aelig;&uml;&copy;&atilde;\x81&reg;|
+    &aring;&bull;\x8F&eacute;&iexcl;&OElig;&aring;&bull;\x8F&eacute;&iexcl;&OElig;&atilde;\x81&sbquo;&atilde;\x81&ordf;&atilde;\x81&Yuml;&atilde;\x81&OElig;&atilde;\x81&bdquo;&atilde;\x81&scaron;&atilde;&sbquo;&OElig;&atilde;\x81&lsaquo;&atilde;\x81&laquo;&aring;&reg;&Yuml;&egrave;&iexcl;&OElig;&atilde;\x81&trade;&atilde;&sbquo;&lsaquo;&atilde;\x81&reg;&atilde;\x81&sect;&atilde;\x81&trade;&atilde;\x81&lsaquo;&atilde;\x81\x9D&atilde;&sbquo;&ldquo;&atilde;\x81&ordf;&atilde;\x81&laquo;&atilde;&sbquo;&sup3;&atilde;&fnof;&sup3;&atilde;&fnof;&dagger;&atilde;&fnof;&sup3;&atilde;&fnof;&bdquo;&atilde;&sbquo;&micro;&atilde;&sbquo;&curren;&atilde;&sbquo;&sup3;&atilde;&fnof;&frac14;&atilde;\x81&sect;&atilde;\x81&macr;&iuml;&frac14;&Yuml;&ccedil;&sect;\x81&egrave;&Dagger;&ordf;&egrave;&ordm;&laquo;&atilde;&euro;\x81&atilde;\x81&frac34;&atilde;\x81&Yuml;&atilde;\x81&macr;&aring;&curren;&ndash;&eacute;&fnof;&uml;&aring;&sect;&rdquo;&egrave;&uml;&mdash;
+    &atilde;\x81&OElig;&atilde;&euro;\x81&atilde;\x81\x9D&atilde;&sbquo;&OElig;&atilde;\x81&macr;&egrave;&iexcl;&uml;&ccedil;&curren;&ordm;&ccedil;&sect;\x81&atilde;\x81&macr;&atilde;\x81&copy;&atilde;\x81&iexcl;&atilde;&sbquo;&permil;&atilde;\x81&lsaquo;&atilde;\x81&mdash;&atilde;\x81&Yuml;&atilde;&sbquo;&sup3;&atilde;&fnof;&sup3;&atilde;&fnof;&dagger;&atilde;&fnof;&sup3;&atilde;&fnof;&bdquo;&atilde;&sbquo;&micro;&atilde;&sbquo;&curren;&atilde;&fnof;&circ;&atilde;&sbquo;&rsquo;&atilde;\x81&Yuml;&atilde;\x81\x8F&atilde;\x81&bull;&atilde;&sbquo;&ldquo;&aelig;&OElig;\x81&atilde;\x81&pound;&atilde;\x81&brvbar;&atilde;\x81&bdquo;&atilde;&sbquo;&lsaquo;&atilde;\x81&ldquo;&atilde;\x81&uml;&atilde;\x81&reg;&aring;&curren;&scaron;&atilde;\x81\x8F&atilde;\x81&macr;&atilde;\x81&sbquo;&atilde;&sbquo;&lsaquo;&aelig;&permil;&iquest;&egrave;&ordf;\x8D&aring;\x8D&rdquo;&aring;&reg;&scaron;&ccedil;&sect;\x81&atilde;\x81&ordf;&atilde;\x81&mdash;&atilde;\x81&sect;|&atilde;&sbquo;&curren;&atilde;&fnof;&sup3;&atilde;&sbquo;&iquest;&atilde;&fnof;&frac14;&atilde;&fnof;\x8D&atilde;&fnof;&fnof;&atilde;&fnof;&circ;&atilde;&sbquo;&brvbar;&atilde;&sbquo;&sect;&atilde;&fnof;&ndash;&atilde;\x81&trade;&atilde;\x81&sup1;&atilde;\x81&brvbar;&atilde;\x81&reg;&auml;&cedil;&Scaron;&atilde;\x81&laquo;&atilde;&fnof;\x9D&atilde;&fnof;&fnof;&atilde;&fnof;&mdash;&atilde;&sbquo;&cent;&atilde;&fnof;&fnof;&atilde;&fnof;&mdash;&atilde;&euro;&sbquo;&auml;&frac12;&bull;&atilde;\x81&lsaquo;&ccedil;&Yuml;&yen;&atilde;\x81&pound;&atilde;\x81&brvbar;&atilde;\x81&bdquo;&atilde;\x81&frac34;&atilde;\x81&trade;&ccedil;&acute;&rsaquo;&aring;&curren;&plusmn;&eacute;&pound;&Yuml;&atilde;\x81&bdquo;&ccedil;&permil;&copy;&atilde;\x81&sect;&atilde;\x81&sbquo;&atilde;&sbquo;&lsaquo;&atilde;\x81&ldquo;&atilde;\x81&uml;&atilde;\x81&lsaquo;&atilde;&sbquo;&permil;&atilde;&euro;\x81&atilde;&sbquo;&sup3;&atilde;&fnof;&sup3;&atilde;&fnof;&dagger;&atilde;&fnof;&sup3;&atilde;&fnof;&bdquo;&atilde;&sbquo;&rsquo;&aring;&Scaron;&copy;&atilde;\x81&lsquo;&atilde;&sbquo;&lsaquo;&atilde;\x81&Yuml;&atilde;&sbquo;\x81&atilde;\x81&laquo;&atilde;&fnof;&dagger;&atilde;&sbquo;&macr;&atilde;&fnof;&lsaquo;&atilde;&fnof;&fnof;&atilde;&sbquo;&macr;&aring;\x81&oelig;&aelig;&shy;&cent;&atilde;\x81&lsaquo;&atilde;&sbquo;&permil;&aring;&reg;&circ;&atilde;&sbquo;&lsaquo;&iuml;&frac14;&Yuml;&ccedil;&sect;\x81&atilde;\x81&macr;&ccedil;&cent;&ordm;&atilde;\x81&lsaquo;&atilde;\x81&laquo;&ccedil;&oelig;&Yuml;&atilde;\x81&laquo;&atilde;\x81&uml;&aelig;&euro;\x9D&atilde;\x81&bdquo;&atilde;&euro;\x81&atilde;\x81\x9D&atilde;&sbquo;&OElig;&atilde;&sbquo;&rsquo;&aelig;&bdquo;&Yuml;&egrave;&not;\x9D&atilde;\x81&mdash;&atilde;\x81&brvbar;&atilde;\x81&bdquo;&atilde;\x81&frac34;&atilde;\x81&trade;&atilde;&euro;&sbquo;\r\n&atilde;&sbquo;&laquo;&atilde;&sbquo;&middot;&atilde;&sbquo;&ordf;
+    &atilde;&fnof;&mdash;&atilde;&fnof;&ordf;&atilde;&fnof;&sup3;&atilde;&sbquo;&iquest;&atilde;&fnof;&frac14;
+    &atilde;&fnof;&permil;&atilde;&fnof;&copy;&atilde;&sbquo;&curren;&atilde;&fnof;\x90&atilde;&fnof;&frac14;
+    http:&#47;&#47;agamdesign.com&#47;wp-content&#47;themes&#47;twentyeleven&#47;casio-2219&#47;@0@8@0@2014110716560849nz.html"
+- id: 315
+  author: film streaming x
+  author_email: lucretia_wimmer@bigstring.com
+  author_url: http://www.monporn.net/
+  date: '2015-01-19 12:42:37 -0500'
+  date_gmt: '2015-01-19 17:42:37 -0500'
+  content: "Adresse email valide la constellation avec ton truc ben et \r\nil y avait
+    pied fr&Atilde;&acute;la le sien elle auquel elle donne \r\nun fils monocorde
+    tu avais tout ne vais pas me laisser &Atilde;&nbsp; outrance et un langage mais
+    \r\npas de chance, porte de s&Atilde;&copy;paration au bout dossier dans le vide
+    des napol&Atilde;&copy;on qui en a bien pass&Atilde;&copy;e et \r\nce malgr&Atilde;&copy;
+    ne peut pas tout film streaming x olga \r\nn'aurait elle pas blanc qui lui aura
+    donnez."
+---
+<p>A few nights ago, I had the sudden desire to look at some of my old code.  Of course the oldest stuff is either lost to time or bound on an obsolete magnetic format, and I am not sure how much can be gained from Apple II assembly from when I was 12.  I only really got serious about full backups in the mid-2000's, so a lot of small programs have vanished.</p>
+<p>But I wrote a CD ripper + CDDB + MP3 encoder frontend called Choad in the year 2000.  It was a Perl script that wrapped <a href="https:&#47;&#47;www.xiph.org&#47;paranoia&#47;" target="_blank">cdparanoia<&#47;a> (an excellent error-correcting ripper of the time), <a href="http:&#47;&#47;lame.sourceforge.net" target="_blank">LAME<&#47;a> (still the standard in MP3 encoding), and a few Perl libraries to provide a complete ripping solution.  Insert a CD, receive correctly named and tagged MP3s.</p>
+<p>Years ago I lost the Choad source in a hard drive failure, or server disappearance, or something.  I searched for it on the web yesterday, and found nothing at first.  But when I looked a little deeper, I found a fork named <a href="http:&#47;&#47;gurno.com&#47;adam&#47;software&#47;index.php#chood" target="_blank">Chood<&#47;a> that a fellow named Adam Gurno put together a couple years later.  Chood adapted Choad for Ogg Vorbis output.  And Adam Gurno distributed Chood as both a full distribution based on Choad 0.822, and as a patch to Choad 0.822.</p>
+<p>Thanks Adam!  One <code>patch -N<&#47;code> later and I had my final version of Choad.</p>
+<p>So what better to do with code I wrote in the year 2000, twenty-one years old and living in a rave warehouse, than rip it apart?  Time for a code review.</p>
+<p>I've elided big sections of code here.  If you'd like to see the whole thing in context, <a href="https:&#47;&#47;github.com&#47;gamache&#47;choad" target="_blank">I put it on GitHub<&#47;a>.  Pull requests welcome! Yeah, sure.</p>
+<p>Disclaimer: I wrote this in Perl. People did that then. You will be exposed to a crazy alternate universe of sigils and coercions.</p>
+<pre lang="perl">
+#!&#47;usr&#47;pkg&#47;bin&#47;perl<br />
+#<br />
+# choad<br />
+#<br />
+# a command-line front end to cdparanoia and lame<br />
+#<br />
+# copyright 2001  pete gamache  gamache@ftso.org<br />
+#                       ,<br />
+# all rights reversed  (K)<br />
+<&#47;pre></p>
+<p>Wait, what? I let this out the door with <code>&#47;usr&#47;pkg&#47;bin&#47;perl<&#47;code> as the executable?  What an asshole.  That was the path on my NetBSD box.  Each of the several package systems Choad ended up on had to patch this.  I am sorry I did this.</p>
+<pre lang="perl">
+require 5;<br />
+use strict;<br />
+<&#47;pre></p>
+<p>Perl noobz: <code>use strict;<&#47;code> is a pragma that forces the programmer not to be a total prick.  Declare your variables, quote your strings, etc.  Not using it is bad and wrong.  I am pleased I was using it at this point.</p>
+<p>Of course, as my friend <a href="http:&#47;&#47;maitlandlederer.com&#47;" target="_blank">Maitland<&#47;a> points out, <code>use warnings;<&#47;code> is conspicuously absent, so I shouldn't smile too broadly.</p>
+<pre lang="perl">
+### constants #######################################################<br />
+my $true = 22;<br />
+my $false = 0;<br />
+my $choad = $0; $choad =~ s&#47;.*\&#47;([^\&#47;]+)$&#47;$1&#47;;<br />
+my $choad_version = "0.822";<br />
+<&#47;pre></p>
+<p>I guess I really wanted to express the concepts of truth and falsity without resorting to Perl idioms directly.  That implies I hadn't read enough Perl yet, which is true.  I thought there was a code smell when in fact, I was the smell.</p>
+<p>And uncommented regexes, even short ones, are why so many people hate Perl and Perl programmers.  Yup, I agree.  Comment, fucko.</p>
+<pre lang="perl">
+### defaults ########################################################<br />
+my $cdparanoia = `which cdparanoia`; $cdparanoia =~ s&#47;\n&#47;&#47;;<br />
+my $cdpflags = $cdpflags_default;<br />
+my $lame = `which lame`; $lame =~ s&#47;\n&#47;&#47;;<br />
+my $lameflags = $lameflags_default;</p>
+<p>my $cddb_host = "freedb.freedb.org";<br />
+my $cddb_port = 888;</p>
+<p>my $auto = $false;<br />
+my $nocddb = $false;<br />
+my $we_have_names = $false;  # if we have artist&#47;title&#47;track list</p>
+<p>my $maketracks = $true;<br />
+my $encode = $true;<br />
+my $submit = $false;         # new to 0.8</p>
+<p>my $trackname = "";</p>
+<p>my $strip_the = $true;</p>
+<p>my $from = 1;<br />
+my $artist = "artist-$$";<br />
+my $album = "album-$$";<br />
+my $genre = "";<br />
+my @tracks = ();<br />
+my @onlyv = ();<br />
+my $how_many_tracks = 0;<br />
+<&#47;pre></p>
+<p>Duuuude, come on here. A few of these are fine. But holy globals!  It is not OK just because you declare it with <code>my<&#47;code>!  Perl programmers can really piss me off.  It's like being a kid who swears a lot, because he's so used to getting his mouth washed out with soap that he just doesn't care anymore.</p>
+<p>And precisely what the fuck do all these do?  I really shit the bed here.  Comments are awesome and this is a barren comment wasteland.  It's an especially dick move considering I am using the <code>$$<&#47;code> special variable, which I am so brain-damaged as to remember means the PID of the running process.</p>
+<pre lang="perl">
+### main routine ####################################################<br />
+parse_config_file ("&#47;etc&#47;choadrc");<br />
+parse_config_file ("$HOME&#47;.choadrc");<br />
+parse_command_line (@ARGV);</p>
+<p>my $MSF_info = query_CD();<br />
+get_CDDB_info() unless $nocddb == $true;</p>
+<p>if ($we_have_names == $true) {<br />
+    print make_tracks_list();<br />
+    submit_CD() unless ($submit == $false);<br />
+} else {<br />
+    print "$how_many_tracks tracks on disc.\n";<br />
+}</p>
+<p>$trackname = $trackname_default unless ($trackname ne "");<br />
+<&#47;pre></p>
+<p>Well, there I go declaring a variable <code>$MSF_info<&#47;code> inline with the rest of the code.  It gets used in a subroutine elsewhere, and I had no idea where the hell it came from because I didn't even have the goddamn common courtesy to put it with the rest of the obscurely-named globals.  Shithead.</p>
+<p>I'm at least glad to see I broke out the config file and command line parsing into their own subroutines.  Didn't drop that ball.  Let's take a peek at <code>parse_config_file<&#47;code>:</p>
+<pre lang="perl">
+sub parse_config_file {<br />
+    my $CHOADRC = $_[0];<br />
+    my $i=0;<br />
+    open RC, $CHOADRC or return;<br />
+    while (<RC>) {<br />
+        $i++;<br />
+        if (! (&#47;^[\#;]&#47; || &#47;^\s*$&#47;)) {    # ignore comments and blank lines<br />
+            &#47;^\s*(\S*)\s*=?\s*(.*)\s*$&#47;;  # grab useful bits from line<br />
+            my @line = ("-$1", $2);<br />
+            parse_command_line (@line);<br />
+        }<br />
+    }<br />
+}<br />
+<&#47;pre></p>
+<p>Nice! <code>parse_config_file<&#47;code> just calls <code>parse_command_line<&#47;code> a bunch of times.  The config file format is just a stream of command line options.  I made a good call here, even if I left an unused loop variable <code>$i<&#47;code> hanging around.</p>
+<p>Of course, <code>parse_command_line<&#47;code> just sticks a bunch of shit in globals, so whatever.  Back to the main routine:</p>
+<pre lang="perl">
+# now do the encoding<br />
+if ($encode == $true) {<br />
+    if (scalar @onlyv > 0) {<br />
+        while (<@onlyv>) {<br />
+            my $i = shift @onlyv;<br />
+            my $n = shift @onlyv;</p>
+<p>            if ($n eq "auto") {$n = $trackname;}<br />
+            make_appropriate_dirs ($n);<br />
+            rip_track_with_name ($i, parse_format_string($n, $i));<br />
+        }<br />
+    } else {  #batch mode<br />
+        my $curdir = make_appropriate_dirs ($trackname);<br />
+        if ($maketracks == $true) {<br />
+            my $tracksfile = ">" . $curdir . "tracks";<br />
+            open TRACKS, $tracksfile or die $!;<br />
+            print TRACKS "# autogenerated by $choad $choad_version\n";<br />
+            print TRACKS make_tracks_list();<br />
+            close TRACKS;<br />
+        }</p>
+<p>        for (my $i=$from; $i <= $how_many_tracks; $i++) {<br />
+            rip_track_with_name ($i, parse_format_string($trackname, $i));<br />
+        }<br />
+    }<br />
+} # and that's all<br />
+<&#47;pre></p>
+<p>I am guessing I named <code>@onlyv<&#47;code> that to indicate that it is a vector.  That one gets me half an hour in the dunk tank.  I'd like to ask 2000-me why this is a better choice than <code>@onlys<&#47;code>.  Dipshit.</p>
+<p>This mostly looks sane otherwise.  Kind of.</p>
+<p>And we've just fallen off the end of the main program.</p>
+<p>Let's look into <code>get_CDDB_info<&#47;code>.  At this point, the program has received multiple possible matches for a CD, because the CDDB format sucks.  Choad must ask the user which is the real album.</p>
+<pre lang="perl">
+my @discs = $cddb->get_discs($cddb_id, $track_offsets, $total_seconds);<br />
+my $discchoice = 1;<br />
+my $i=0;<br />
+if (scalar @discs > 1) {<br />
+    if ($auto == $false) {<br />
+        foreach my $disc (@discs) {<br />
+            $i++;<br />
+            ($genre, my $cddb_id, my $title) = @{$disc};<br />
+            print "$i  $title\n";<br />
+        }<br />
+        ASK: print "\nWhich disc? ";</p>
+<p>        while ((my $c .= getc STDIN) ne "\n") {<br />
+            $discchoice = $c;<br />
+        }</p>
+<p>        if ($discchoice > scalar @discs) {<br />
+            print "Too high; try again.";<br />
+            goto ASK;<br />
+        }<br />
+    }<br />
+    $we_have_names = $true;<br />
+} elsif (scalar @discs == 0) {<br />
+    print STDERR "No CDDB entry for this disc (id=0x$cddb_id)\n";<br />
+    $we_have_names = $false;<br />
+} else {<br />
+    $we_have_names = $true;<br />
+}<br />
+<&#47;pre></p>
+<p>What the shit.  I couldn't figure out a way to express this any better, apparently, because that is very clearly <code>goto<&#47;code> and a label in there.  Gah.</p>
+<p>Wanna punch me yet? You will.</p>
+<pre lang="perl">
+sub query_CD {<br />
+    # returns tab-delimited string list of:<br />
+    #<br />
+<track offset-minutes offset-seconds offset-frames>
+    # also sets $how_many_tracks</p>
+<p>    my $toc = "";<br />
+    my $command = "$cdparanoia $cdpflags -Q 2>&#47;tmp&#47;choad-$$";</p>
+<p>    `$command`;<br />
+    open QUERY, "&#47;tmp&#47;choad-$$" or die $!;<br />
+    while (<QUERY>) {<br />
+        print $_;<br />
+        if (&#47;\s*([0-9]+)\.\s+[0-9]+\s+\[[0-9]+:[0-9]+\.[0-9]+\]\s+[0-9]+\s+\[([0-9]+):([0-9]+)\.([0-9]+)\]&#47;) {  # that's a mouthful<br />
+            $toc .= "$1 $2 $3 $4&#47;";<br />
+            $how_many_tracks = $1;<br />
+        }<br />
+        elsif (&#47;^TOTAL\s+[0-9]+\s+\[([0-9]+):([0-9]+)\.([0-9]+)\]&#47;) {<br />
+            $toc .= "999 $1 $2 $3";  # lead-out track<br />
+        }<br />
+    }<br />
+    close QUERY; #print "made it past query\n";<br />
+    `&#47;bin&#47;rm &#47;tmp&#47;choad-$$`;</p>
+<p>    return $toc;<br />
+}<br />
+<&#47;pre></p>
+<p>You might notice, if you take the time to scroll all the way over there, that that big long turd of regex ends with <code># that's a mouthful<&#47;code>.  This bonehead can take a mouthful of curb.  <b>Regular expressions get commented, period.<&#47;b>  There's not even sample output from cdparanoia.  Fuck this guy.</p>
+<p>At least it ends with thorough documentation, in the form of a few subroutines like <code>usage<&#47;code> and <code>longhelp<&#47;code>.  </p>
+<pre lang="perl">
+sub usage {<br />
+    return sprintf  <<END<br />
+usage: $choad [options] [-only n1 file1 n2 file2 ...]</p>
+<p>options:<br />
+  -choadrc <filename>        read <filename> as choadrc configuration file<br />
+  -cdp &#47;path&#47;to&#47;cdparanoia   specify path to cdparanoia<br />
+                             [default=$cdparanoia]<br />
+  -cdpflags "flags"          pass "flags" to cdparanoia<br />
+                             [default="$cdpflags_default"]<br />
+  -lame &#47;path&#47;to&#47;lame        specify path to lame<br />
+                             [default=$lame]<br />
+  -lameflags "flags"         pass "flags" to lame<br />
+                             [default="$lameflags_default"]<br />
+  -server <host>             use <host> as CDDB server<br />
+                             [default=$cddb_host]<br />
+  -port
+<port>               use
+<port> as CDDB server port<br />
+                             [default=$cddb_port]<br />
+  -nocddb                    do not attempt CDDB lookup<br />
+  -tracks <filename>         use <filename> for artist&#47;title&#47;track list<br />
+                             instead of CDDB lookup (implies -nocddb)<br />
+  -nomaketracks              do not make "tracks" file when encoding CD<br />
+  -submit                    submit track list to CDDB (use with -tracks)<br />
+  -noencode                  do not encode CD<br />
+  -auto                      ask user no questions (Do The Right Thing)<br />
+  -trackname "string"        use "string" as track name format string<br />
+                             [default="$trackname_default"]<br />
+  -the                       do not strip leading "the" from artist name<br />
+  -from <n>                  start encoding at track <n><br />
+  -h                         print help message<br />
+  -V                         print version<br />
+  -longhelp                  print long help message</p>
+<p>If "-only <n> <file> ..." is present, $choad will encode each track <n>,<br />
+using <file> as the format string for the filename.  If <file> == "auto",<br />
+then the default format string is used.</p>
+<p>If "-only ..." is not present, $choad will encode the entire CD.</p>
+<p>END<br />
+    ;<br />
+}<br />
+<&#47;pre></p>
+<p>Not so bad! But I started to put that stuff near the top of scripts like this over time.  It's not just because it's helpful to the uninitiated.  I like to put the docs up top because that is the mission statement of the code.  Once I get the docs right, the code usually falls out of me a lot faster.</p>
+<p>&nbsp;</p>
+<p>So what do I see overall?  I see BASIC residue, in abuse of globals. I see someone who hadn't coded in a group setting before, in the shitty or nonexistent comments.   I see someone who hadn't read a lot of code yet, in the ignorance of idioms.  I see a dearth of modularity.</p>
+<p>But on the bright side, I scratched my itch, ripping my CD library on a handful of cheapo unix PCs.  And I shipped code.  It's my first open source project and it worked.  People sent patches and everything.  Felt great.</p>
+<p><b>Epilogue:<&#47;b></p>
+<p>Not long after I finished Choad, Mac OS X -- and iTunes -- arrived, and Choad went by the wayside.  Eventually, around 2006, I wanted to rip my CDs for the very last time, to FLAC and MP3, with many machines working together.  And maybe some of these machines don't have monitors, or CD-ROM drives, or whatever.  Nothing existed that did what I wanted.</p>
+<p>Sourceforge declined to host a project named Choad, so there was born <a href="http:&#47;&#47;cretin.sf.net" target="_blank">Cretin: the CD Ripper, Encoder, and Tagger with an Inoffensive Name<&#47;a>.  And I haven't written one since.</p>
