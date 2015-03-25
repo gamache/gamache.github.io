@@ -26,24 +26,22 @@ First, HOW NOT TO SET YOURSELF OR YOUR KITCHEN ON FIRE.
 
 Here goes:
 
--image1-
-
 You fill the pot with the liquid to distill.
 
--image2-
+![Fill the pot](/images/distillation/image1.jpg)
 
 You then place the empty dish in the center of the pot, taking care to keep
 it empty.
 
--image3-
+![Place the dish](/images/distillation/image2.jpg)
 
 The pot goes on the stove, and the bowl is placed atop the pot
 
--image4-
+![Top with bowl](/images/distillation/image3.jpg)
 
 …and filled with ice.
 
--image5-
+![Fill bowl with ice](/images/distillation/image4.jpg)
 
 As the pot liquor heats up, different chemicals will boil off at their
 respective boiling points. These will rise as vapor, condense on the
@@ -59,7 +57,7 @@ alcohol starts to boil, then slow down as the alcohol is boiled off
 completely, only to speed up again as the water starts to boil. When
 the alcohol slows down, that’s a good time to stop.
 
--image6-
+![Jar of moonshine](/images/distillation/image5.jpg)
 
 There are many other compounds with boiling points lower than that of the
 alcohol, which come out first. This is especially true when distilling
