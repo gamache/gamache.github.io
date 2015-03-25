@@ -52,11 +52,11 @@ Hey, that’s me! And I’m using Java 6 or later too!
 I’ll let a couple graphs tell the tale. Here’s typical operation without
 the fix:
 
--image1-
+![Heap memory before fix](/images/jruby-leak/image1.png)
 
 And with the fix?
 
--image2-
+![Heap memory after fix](/images/jruby-leak/image2.png)
 
 Nice. But not quite good enough. It’s still growing! Just because I can wait
 8 hours between server reboots instead of 4 doesn’t make me that pleased.
@@ -72,7 +72,7 @@ I just stick UUID-named ornaments onto the main class at runtime and pass
 the name along instead of the subclass. Technically this is still a leak,
 but ornaments weigh a lot less than Christmas trees.
 
--image3-
+![Heap memory after avoidance](/images/jruby-leak/image2.png)
 
 I can live with this. For now.
 
