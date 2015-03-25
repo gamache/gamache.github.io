@@ -15,7 +15,7 @@ This week, I decided to apply the idea to coffee. I am pleased to report
 that it is possible to produce excellent, wonderfully strong coffee at
 room temperature in about one minute with a whipped cream maker.
 
--image1-
+![Noscafé coffee](/images/noscafe/image1.jpg)
 
 My usual way of brewing coffee is to grind the coffee very fine, between
 espresso and turkish grind, and pour in boiling water. In about two minutes,
@@ -41,5 +41,5 @@ I am left with delicious iced coffee, strong and sweet without a hint of acid.
 It’s as good as any 24-hour cold water brew I’ve made, and this in the time
 it takes to make a cup of instant. Makes great tea too!
 
--image2-
+![Noscafé tea](/images/noscafe/image2.jpg)
 
