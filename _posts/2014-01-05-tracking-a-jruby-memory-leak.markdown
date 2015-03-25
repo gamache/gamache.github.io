@@ -2,8 +2,7 @@
 layout: post
 title: Tracking a JRuby Memory Leak
 date: '2014-01-05 08:26:06 -0500'
-categories: code api
-tags: api
+tags: api code jruby
 ---
 I wrote an API in JRuby on Rails, and it hemorrhaged heap memory. The JVM
 leaks anonymous classes by default. First I didn’t know, then I fought it,

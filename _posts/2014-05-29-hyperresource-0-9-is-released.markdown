@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: post
 title: HyperResource 0.9 Is Released
 date: '2014-05-29 11:50:33 -0400'
-tags: hyperresource ruby hypermedia api
-categories: code api
+tags: hyperresource ruby hypermedia api code ruby
 ---
 Today I am pleased to announce the release of HyperResource 0.9!
 
