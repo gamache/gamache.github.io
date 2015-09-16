@@ -91,6 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
+    font-weight: 400;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -157,7 +158,7 @@ pre {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
-    margin-left: auto;
+    margin-left: $spacing-unit; //auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;

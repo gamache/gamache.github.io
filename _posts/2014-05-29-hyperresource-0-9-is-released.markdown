@@ -6,7 +6,8 @@ tags: hyperresource ruby hypermedia api code ruby
 ---
 Today I am pleased to announce the release of HyperResource 0.9!
 
-HyperResource is a Ruby client for hypermedia-driven web APIs. It’s designed
+[HyperResource](https://github.com/gamache/hyperresource)
+is a Ruby client for hypermedia-driven web APIs. It’s designed
 to make working with hypermedia web services as simple as working with local
 data, while still remaining a 100% generic client.
 
