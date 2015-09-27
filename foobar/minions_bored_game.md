@@ -54,3 +54,6 @@ at least 2.
 
 [Solution](minions_bored_game-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

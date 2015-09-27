@@ -64,3 +64,6 @@ Output:
 
 [Solution](grid_zero-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

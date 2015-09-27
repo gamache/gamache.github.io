@@ -41,3 +41,6 @@ K will be at least one less than N and at most (N * (N - 1)) / 2
 
 [Solution](undercover_underground-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

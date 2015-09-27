@@ -30,3 +30,6 @@ three vertices will not be collinear.
 
 [Solution](carrotland-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

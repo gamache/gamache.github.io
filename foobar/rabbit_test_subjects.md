@@ -36,3 +36,6 @@ nearest integer.
 
 [Solution](rabbit_test_subjects-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

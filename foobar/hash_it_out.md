@@ -49,3 +49,6 @@ message and digest.
 
 [Solution](hash_it_out-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

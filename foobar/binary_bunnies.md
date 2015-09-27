@@ -48,3 +48,6 @@ Output:
 
 [Solution](binary_bunnies-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

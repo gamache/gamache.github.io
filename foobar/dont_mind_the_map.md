@@ -78,3 +78,6 @@ Output:
 
 [Solution](dont_mind_the_map-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

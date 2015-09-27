@@ -25,3 +25,6 @@ interval.
 
 [Solution](zombit_monitoring-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

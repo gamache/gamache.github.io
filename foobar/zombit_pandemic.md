@@ -48,3 +48,6 @@ Output:
 
 [Solution](zombit_pandemic-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

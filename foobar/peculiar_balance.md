@@ -33,3 +33,6 @@ x will always be a positive integer, no larger than 1000000000.
 
 [Solution](peculiar_balance-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

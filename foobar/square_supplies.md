@@ -26,3 +26,6 @@ n will be an integer, satisfying 1 <= n <= 10000.
 
 [Solution](square_supplies-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+

@@ -35,3 +35,6 @@ the answer will exist and be unique.
 
 [Solution](minglish_lesson-solution.html)
 
+
+[Back to Foobar challenges](index.html)
+
