@@ -23,18 +23,18 @@ that the light is off.
 
 For example, if the matrix was
 
-1 1
-0 0
+    1 1
+    0 0
 
 Touching the bottom left light results in
 
-0 1
-1 1
+    0 1
+    1 1
 
 Now touching the bottom right light results in
 
-0 0
-0 0
+    0 0
+    0 0
 
 ...which unlocks the door.
 
