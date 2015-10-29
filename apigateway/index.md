@@ -147,6 +147,16 @@ At this point, you should be able to type `mocha` at the command prompt
 and see 1 passing test.
 
 
+### Zip up the code
+
+In order to import our code into Lambda, we need to zip it up.  Run our
+npm script:
+
+    npm run zip
+
+And `myNewApi.zip` will appear alongside the `myNewApi/` directory.
+
+
 
 
 ## Set up the Lambda
@@ -165,11 +175,7 @@ what it does.  Keep Node.js selected as our runtime.  Here's an example.
 
 ![screenshot of Configure function](lambda-configure-function.jpg)
 
-    npm run zip
-
-And `myNewApi.zip` will appear alongside the `myNewApi/` directory.
-Be sure you've run `npm install` beforehand!
-
+For the code, upload the ZIP file we created a few moments ago.
 The default Lambda function handler `index.handler` does not need
 adjustment, because we set up our `index.js` to match.
 
