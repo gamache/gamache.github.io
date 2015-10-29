@@ -164,7 +164,7 @@ function".
 Enter a camelCased name for your function, along with a description of
 what it does.  Keep Node.js selected as our runtime.  Here's an example.
 
-![screenshot of Configure function](lambda1.png)
+![screenshot of Configure function](lambda-configure-function.jpg)
 
 #### Lambda function code
 
@@ -185,6 +185,8 @@ For the "Role", we need to set up a Lambda execution role.  Select
 "Create New Role > Basic Execution Role" from the dropdown menu, and
 follow the instructions to create the role.
 
+![screenshot of Lambda role creation](lambda-create-role.jpg)
+
 #### Advanced settings
 
 These need no tweaking, but for more intensive tasks, the RAM and
@@ -199,7 +201,7 @@ a dummy payload to the function and observe its output.  With the
 default test event, we should see results like the following:
 
 ![screenshot of JSON output, with input data under the key
-"request_data"](lambda2.png)
+"received_as_input"](lambda-test-output.jpg)
 
 
 
@@ -212,18 +214,26 @@ navigate to that section of our AWS console.
 
 Create a new API.  Give it a name and a description.
 
+![screenshot of Create API page](apigateway-new-api.jpg)
+
 You'll eventually land on the Resources page, where you can create
 resources (paths) and methods on those resources.
 
-![screenshot of Create API page](apigateway1.png)
+![screenshot of fresh API page](apigateway-fresh-api.jpg)
 
 Click on "Create Method".  Let's use POST as an example, so we can show
 off more features than GET.  On the following screen, select "Lambda
 function" as the integration type, and enter the details for the Lambda
-we just created.  AWS will ask for permission to grant API Gateway
+we just created.
+
+![screenshot of Create Method page](apigateway-post-setup.jpg)
+
+AWS will ask for permission to grant API Gateway
 access to the Lambda; say yes.
 
-![screenshot of Create Method page](apigateway2.png)
+![screenshot of AWS asking for permission to invoke
+Lambda](apigateway-invoke-permission.jpg)
+
 
 We'll land on the `/ - POST` method page, where we can test our API for
 the first time.  Click the Test button, enter `{"hello": "world"}` as
@@ -235,9 +245,13 @@ the request payload, and ensure that the response body is:
       }
     }
 
+![screenshot of API Gateway test results](apigateway-test-results.jpg)
+
 We are now one step away from having a real API.  Click the "Deploy API"
 button in the sidebar.  Create a new stage.  Call it something.  Hit
 "Deploy".
+
+![screenshot of API Gateway Deploy modal](apigateway-deploy.jpg)
 
 You'll see a url like
 `https://f8fenu11tf.execute-api.us-west-2.amazonaws.com/prod` on the
