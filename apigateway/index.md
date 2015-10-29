@@ -36,7 +36,7 @@ milliseconds-soon.  There were plenty of limitations at first --
 a 60 second execution limit, to name but one --
 but the service offered pure, serverless, on-demand computing, and
 at [prices that small-to-medium businesses had no hope of
-matching themselve themselves](https://aws.amazon.com/lambda/pricing/).
+matching themselves](https://aws.amazon.com/lambda/pricing/).
 
 Not much later, the Lambda system was integrated into
 [Amazon API Gateway](https://aws.amazon.com/api-gateway/),
@@ -157,26 +157,18 @@ Console on the web.  Log into AWS, click on AWS Lambda, and click past
 any "Get Started" or "Select blueprint" crap.  We're aiming for "Configure
 function".
 
-### Configuring the Lambda
 
-#### Configure function
+### Create and configure the Lambda
 
 Enter a camelCased name for your function, along with a description of
 what it does.  Keep Node.js selected as our runtime.  Here's an example.
 
 ![screenshot of Configure function](lambda-configure-function.jpg)
 
-#### Lambda function code
-
-For "Code entry type", choose "Upload a .ZIP file".  Recall that we
-specified a script to zip up our code.  At a command line:
-
     npm run zip
 
 And `myNewApi.zip` will appear alongside the `myNewApi/` directory.
 Be sure you've run `npm install` beforehand!
-
-#### Lambda function handler and role
 
 The default Lambda function handler `index.handler` does not need
 adjustment, because we set up our `index.js` to match.
@@ -187,14 +179,13 @@ follow the instructions to create the role.
 
 ![screenshot of Lambda role creation](lambda-create-role.jpg)
 
-#### Advanced settings
-
-These need no tweaking, but for more intensive tasks, the RAM and
-execution time limit can be increased here.
+The advanced settings need no tweaking, but for more intensive tasks,
+the RAM and execution time limit can be increased there.
 
 Click on "Create Function" to save the Lambda to AWS.
 
-### Testing the Lambda
+
+### Test the Lambda
 
 Once we've saved the Lambda, a Test button appears, allowing us to send
 a dummy payload to the function and observe its output.  With the
@@ -206,20 +197,28 @@ default test event, we should see results like the following:
 
 
 
-## Create an API
+## Set up API Gateway
 
 OK.  The Lambda's in place, and we've watched it work.
 It's time to set up API Gateway, so we
 navigate to that section of our AWS console.
 
+### Create the API
+
 Create a new API.  Give it a name and a description.
 
 ![screenshot of Create API page](apigateway-new-api.jpg)
 
-You'll eventually land on the Resources page, where you can create
+We'll eventually land on the Resources page, where you can create
 resources (paths) and methods on those resources.
-
 ![screenshot of fresh API page](apigateway-fresh-api.jpg)
+
+
+### Create a method
+
+A "method" in API Gateway terms is a combination of a "resource" (path)
+and an HTTP method to which it responds.  API Gateway methods are
+the basic building blocks of the API.
 
 Click on "Create Method".  Let's use POST as an example, so we can show
 off more features than GET.  On the following screen, select "Lambda
@@ -234,10 +233,22 @@ access to the Lambda; say yes.
 ![screenshot of AWS asking for permission to invoke
 Lambda](apigateway-invoke-permission.jpg)
 
+We'll land on the `/ - POST` Method Execution page.  There's a lot of
+important functionality in this screen, including input and output
+validation and JSON transformations.  (We won't get too deep in this
+demonstration, but you should play around here later.)
 
-We'll land on the `/ - POST` method page, where we can test our API for
-the first time.  Click the Test button, enter `{"hello": "world"}` as
-the request payload, and ensure that the response body is:
+![screenshot of / POST method page](apigateway-post-method-execution.jpg)
+
+
+### Test the method
+
+That lightning-bolt Test icon looks too good.  Let's click it.
+
+![screenshot of method test](apigateway-test.jpg)
+
+Enter `{"hello": "world"}` as the request payload,
+and ensure that the response body is:
 
     {
       "received_as_input": {
@@ -265,7 +276,7 @@ Congratulations! We have an API.
 
 
 
-## Tips, Tricks, and Gotchas
+## Tips, tricks, and gotchas
 
 * [Mapping templates](http://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html),
   accessible in the Request Integration and Response Integration screens,
@@ -329,8 +340,8 @@ If that sounds like a good fit for you and your project, give it a spin!
 ## About the Author
 
 Pete Gamache is Head of Engineering at [Appcues](http://appcues.com),
-an onboarding and user guides startup with a penchant for minimalist
-architecture.  He is a proud API geek and enjoys living in the future.
+an onboarding and user guides startup that moves fast and fixes things.
+He is a proud API geek and enjoys living in the future.
 [Follow him on Twitter](https://twitter.com/gamache).
 
 
