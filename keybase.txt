@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/gamache
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://petegamache.com
+  * I am gamache (https://keybase.io/gamache) on keybase.
+  * I have a public key with fingerprint 1E3A D3A7 A62D 5CEE 5EFE  C0AB 1C59 EDEE 13C6 C4F9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.0"
+        },
+        "key": {
+            "fingerprint": "1e3ad3a7a62d5cee5efec0ab1c59edee13c6c4f9",
+            "host": "keybase.io",
+            "key_id": "1C59EDEE13C6C4F9",
+            "uid": "56fde3357f1816afe9b0d725d345fb00",
+            "username": "gamache"
+        },
+        "merkle_root": {
+            "ctime": 1411765644,
+            "hash": "e3e275bff51016e1e312051b00d9eebd8f44b58c9212133da15c403a0600bc37cd1fc0e97019b1db41d10f3d45c0511f21b0796c6a51f7b7bdc5538e00ff19c9",
+            "seqno": 63008
+        },
+        "service": {
+            "hostname": "petegamache.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411765676,
+    "expire_in": 157680000,
+    "prev": "93700c2761149fb30a270eaf4cef03882430cfbdb48b37185398c6e3f4f0e6ae",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkntQFVUcx3kaKhqioTI44mJqysA59+zj7s1qEi46asSMKI9phN2z51wW4e5t
+7woxFyxlNN8CNUNWY4WAJSFYzaSONEAig4YoImlgvgIfpT0kS0alXYemx/nrnPl9
+f5/f7/v7nbIJgX4B/lEZt+9MPn7svv/Jm7Jf6tPnPvUxsqYUMQ4fg/NU4jasm1vK
+J4yDWUOKZMlL4lQt2q0pJC7XGz2qiWUKiO5VNbepAnFCHGBKYi25lUxVt4voHl21
+WAwkSFKQJEi8TeEwIRyhBANJhpgTiUIIRJjHLBVNZI7mNf5TlXnMzFIVi5PAic5E
+pxOiBD6BTbL0ax8HOJ4qBCFOoNAOeYkSUQaKYOMUxHJUBsASeok+askl5Us4h1jt
+5hN9TR7J0jXtsWdsqJYCshAKPMezrNmQ5M0xcwgiNoGTKeUggDwxHUEb4KDJVkRC
+ZMVOWVbm7Fi0QRtESJEgh1mAJMADIGMkYAVSDIgoACjKUJFZqEBAkcJy2MRAajNR
+gshjXuIgFWRBVjDHITsBgFIoYsuql7zq1hgHjwCwl1hPvUDFxGrbGtqoNw8xyKi/
+OKzlm2keXTM0rOWZwRzD8Dgs20aRxxIXEvlA1ignS1bdirm1f68VmtL/jUTgYxny
+mkfVSZZqKTiBtwPzWHVIgckUkQAAtgk8hKxIZQQkmwCIRFlMKEB2u41FAFPZnIBd
+RgK0c0i0Y54gylJAeIn8Y1Q0+5RcJtKrutySsVY3N7YlICrIzz/Ab0xwgPVv/caN
+Dfv7M3+w78nhgAW9kDlcnLbh3dZxrmJ0apJeNQKGfn+u/kjihlvO9EXFdYHZvdNh
+vDv90R+fOFuXH0+w3b0bSXc1V0c2R2deu9g2OPPwlSl6lSu/4Z1gkBw+/+NCOLM0
+ZFNCtD333Ndv1A4uOfVbm0q1A/FTns1f5lBi1q66Wdr11jolaepXl67ybe0Zu8+0
+P99fVr0gw2f0DbRMOzqEJwbU6p0+aexPteVN81ty3xPB+tXJ6+Ge5oioJRU15SUj
+2zpbVi/durXF/9fyjRemxj31/Xbb5pCL7yds/3M8+uKbxEevo8KyZQvXcT0Z2eO/
+nDyps+3lbUnFs56IGN6b5W1YmDNRTXkx9LO8C9MaK4ICnQXXpD0rzjN9jsKixswh
+zXXr4ZgbRldqdffBjPO+RVt6XhoOa01dEfRgy5HSiLCikR86GvtPcrOuz1taen5G
+iFQ78fbA8tkDSZt29T887RwMjnkmfMfi9JXNR72+H/enB/LZ9J7j21k1W7+L6g4P
+uvzz0sUHw/LmXR+JuvIohT394WxD9+Q19UTWXW3ubtitJK6MPBPa3zSQq/ce65gj
+BLVXNp2t7/bsT/4ovko7e/9S/S87T9ShCXM293nS7j1Ildc7mKBXNtbsfaHsc8eD
+7Lq5q5KDU0L7Vg5rtW863p6wwplWUdaie2aciKn0HUozMu+Ej5k7vXJfV5125XJH
+v5P2Hrqx4y8=
+=UdDb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gamache
+
+==================================================================
