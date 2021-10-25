@@ -19,7 +19,7 @@ Thanks Adam! One patch -N later and I had my final version of Choad.
 
 So what better to do with code I wrote in the year 2000, twenty-one years old and living in a rave warehouse, than rip it apart? Time for a code review.
 
-I’ve elided big sections of code here. If you’d like to see the whole thing in context, I put it on GitHub. Pull requests welcome! Yeah, sure.
+I've elided big sections of code here. If you'd like to see the whole thing in context, I put it on GitHub. Pull requests welcome! Yeah, sure.
 
 Disclaimer: I wrote this in Perl. People did that then. You will be exposed to a crazy alternate universe of sigils and coercions.
 
@@ -46,7 +46,7 @@ Perl noobz: `use strict;` is a pragma that forces the programmer not to be a tot
 
 Of course, as my friend
 [Maitland](https://twitter.com/androidqueen) points out, `use warnings;`
-is conspicuously absent, so I shouldn’t smile too broadly.
+is conspicuously absent, so I shouldn't smile too broadly.
 
 {% highlight perl %}
 ### constants #######################################################
@@ -56,7 +56,7 @@ my $choad = $0; $choad =~ s/.*\/([^\/]+)$/$1/;
 my $choad_version = "0.822";
 {% endhighlight %}
 
-I guess I really wanted to express the concepts of truth and falsity without resorting to Perl idioms directly. That implies I hadn’t read enough Perl yet, which is true. I thought there was a code smell when in fact, I was the smell.
+I guess I really wanted to express the concepts of truth and falsity without resorting to Perl idioms directly. That implies I hadn't read enough Perl yet, which is true. I thought there was a code smell when in fact, I was the smell.
 
 And uncommented regexes, even short ones, are why so many people hate Perl and Perl programmers. Yup, I agree. Comment, fucko.
 
@@ -92,9 +92,9 @@ my @onlyv = ();
 my $how_many_tracks = 0;
 {% endhighlight %}
 
-Duuuude, come on here. A few of these are fine. But holy globals! It is not OK just because you declare it with my! Perl programmers can really piss me off. It’s like being a kid who swears a lot, because he’s so used to getting his mouth washed out with soap that he just doesn’t care anymore.
+Duuuude, come on here. A few of these are fine. But holy globals! It is not OK just because you declare it with my! Perl programmers can really piss me off. It's like being a kid who swears a lot, because he's so used to getting his mouth washed out with soap that he just doesn't care anymore.
 
-And precisely what the fuck do all these do? I really shit the bed here. Comments are awesome and this is a barren comment wasteland. It’s an especially dick move considering I am using the `$$` special variable, which I am so brain-damaged as to remember means the PID of the running process.
+And precisely what the fuck do all these do? I really shit the bed here. Comments are awesome and this is a barren comment wasteland. It's an especially dick move considering I am using the `$$` special variable, which I am so brain-damaged as to remember means the PID of the running process.
 
 {% highlight perl %}
 ### main routine ####################################################
@@ -115,9 +115,9 @@ if ($we_have_names == $true) {
 $trackname = $trackname_default unless ($trackname ne "");
 {% endhighlight %}
 
-Well, there I go declaring a variable `$MSF_info` inline with the rest of the code. It gets used in a subroutine elsewhere, and I had no idea where the hell it came from because I didn’t even have the goddamn common courtesy to put it with the rest of the obscurely-named globals. Shithead.
+Well, there I go declaring a variable `$MSF_info` inline with the rest of the code. It gets used in a subroutine elsewhere, and I had no idea where the hell it came from because I didn't even have the goddamn common courtesy to put it with the rest of the obscurely-named globals. Shithead.
 
-I’m at least glad to see I broke out the config file and command line parsing into their own subroutines. Didn’t drop that ball. Let’s take a peek at `parse_config_file`:
+I'm at least glad to see I broke out the config file and command line parsing into their own subroutines. Didn't drop that ball. Let's take a peek at `parse_config_file`:
 
 {% highlight perl %}
 sub parse_config_file {
@@ -168,13 +168,13 @@ if ($encode == $true) {
 } # and that's all
 {% endhighlight %}
 
-I am guessing I named `@onlyv` that to indicate that it is a vector. That one gets me half an hour in the dunk tank. I’d like to ask 2000-me why this is a better choice than `@onlys`. Dipshit.
+I am guessing I named `@onlyv` that to indicate that it is a vector. That one gets me half an hour in the dunk tank. I'd like to ask 2000-me why this is a better choice than `@onlys`. Dipshit.
 
 This mostly looks sane otherwise. Kind of.
 
-And we’ve just fallen off the end of the main program.
+And we've just fallen off the end of the main program.
 
-Let’s look into `get_CDDB_info`. At this point, the program has received multiple possible matches for a CD, because the CDDB format sucks. Choad must ask the user which is the real album.
+Let's look into `get_CDDB_info`. At this point, the program has received multiple possible matches for a CD, because the CDDB format sucks. Choad must ask the user which is the real album.
 
 {% highlight perl %}
 my @discs = $cddb->get_discs($cddb_id, $track_offsets, $total_seconds);
@@ -207,7 +207,7 @@ if (scalar @discs > 1) {
 }
 {% endhighlight %}
 
-What the shit. I couldn’t figure out a way to express this any better, apparently, because that is very clearly goto and a label in there. Gah.
+What the shit. I couldn't figure out a way to express this any better, apparently, because that is very clearly goto and a label in there. Gah.
 
 Wanna punch me yet? You will.
 
@@ -239,7 +239,7 @@ sub query_CD {
 }
 {% endhighlight %}
 
-You might notice, if you take the time to scroll all the way over there, that that big long turd of regex ends with `# that's a mouthful`. This bonehead can take a mouthful of curb. Regular expressions get commented, period. There’s not even sample output from cdparanoia. Fuck this guy.
+You might notice, if you take the time to scroll all the way over there, that that big long turd of regex ends with `# that's a mouthful`. This bonehead can take a mouthful of curb. Regular expressions get commented, period. There's not even sample output from cdparanoia. Fuck this guy.
 
 At least it ends with thorough documentation, in the form of a few subroutines like usage and longhelp.
 
@@ -288,18 +288,18 @@ END
 }
 {% endhighlight %}
 
-Not so bad! But I started to put that stuff near the top of scripts like this over time. It’s not just because it’s helpful to the uninitiated. I like to put the docs up top because that is the mission statement of the code. Once I get the docs right, the code usually falls out of me a lot faster.
+Not so bad! But I started to put that stuff near the top of scripts like this over time. It's not just because it's helpful to the uninitiated. I like to put the docs up top because that is the mission statement of the code. Once I get the docs right, the code usually falls out of me a lot faster.
 
-So what do I see overall? I see BASIC residue, in abuse of globals. I see someone who hadn’t coded in a group setting before, in the shitty or nonexistent comments. I see someone who hadn’t read a lot of code yet, in the ignorance of idioms. I see a dearth of modularity.
+So what do I see overall? I see BASIC residue, in abuse of globals. I see someone who hadn't coded in a group setting before, in the shitty or nonexistent comments. I see someone who hadn't read a lot of code yet, in the ignorance of idioms. I see a dearth of modularity.
 
-But on the bright side, I scratched my itch, ripping my CD library on a handful of cheapo unix PCs. And I shipped code. It’s my first open source project and it worked. People sent patches and everything. Felt great.
+But on the bright side, I scratched my itch, ripping my CD library on a handful of cheapo unix PCs. And I shipped code. It's my first open source project and it worked. People sent patches and everything. Felt great.
 
 Epilogue:
 
-Not long after I finished Choad, Mac OS X — and iTunes — arrived, and Choad went by the wayside. Eventually, around 2006, I wanted to rip my CDs for the very last time, to FLAC and MP3, with many machines working together. And maybe some of these machines don’t have monitors, or CD-ROM drives, or whatever. Nothing existed that did what I wanted.
+Not long after I finished Choad, Mac OS X — and iTunes — arrived, and Choad went by the wayside. Eventually, around 2006, I wanted to rip my CDs for the very last time, to FLAC and MP3, with many machines working together. And maybe some of these machines don't have monitors, or CD-ROM drives, or whatever. Nothing existed that did what I wanted.
 
 Sourceforge declined to host a project named Choad, so there was born
 [Cretin: the CD Ripper, Encoder, and Tagger with an Inoffensive Name](http://cretin.sf.net).
-And I haven’t written one since.
+And I haven't written one since.
 
 
