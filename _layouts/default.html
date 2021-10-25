@@ -1,20 +1,34 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  {% include head.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/site.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/css/rouge-github.css" | prepend: site.baseurl }}">
 
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  </head>
   <body>
 
-    {% include header.html %}
+    {{ content }}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <footer>
+      {% if !page.title %}
+      <p><a href="{{ "/" | prepend: site.baseurl }}">Back to index.</a>
+      {% endif %}
 
-    {% include footer.html %}
+      <p>
+        Copyright 2012-2021 Pete Gamache
+        (<a href="mailto:pete@gamache.org" target="_blank">email</a>,
+        <a href="https://github.com/gamache/" target="_blank">github</a>,
+        <a href="https://twitter.com/gamache/" target="_blank">twitter</a>).
+        All rights reversed.
 
+      <br>
+      <span class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS.</span>
+    </footer>
   </body>
-
 </html>
