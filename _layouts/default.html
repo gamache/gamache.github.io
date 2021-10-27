@@ -16,7 +16,7 @@
     {{ content }}
 
     <footer>
-      {% if page.title %}{% else %}
+      {% if page.is_index_page %}{% else %}
       <p><a href="{{ "/" | prepend: site.baseurl }}">Back to index.</a>
       {% endif %}
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+is_index_page: true
 ---
 <h1 class="site-title">{{ site.title }}</h1>
 
