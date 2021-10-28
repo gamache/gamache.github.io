@@ -31,5 +31,5 @@ three vertices will not be collinear.
 [Solution](carrotland-solution.html)
 
 
-[Back to Foobar challenges](index.html)
+[Back to Foobar challenges]({{ "/2015/08/01/google-foobar.html" | prepend: site.baseurl }})
 

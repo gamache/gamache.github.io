@@ -37,5 +37,5 @@ nearest integer.
 [Solution](rabbit_test_subjects-solution.html)
 
 
-[Back to Foobar challenges](index.html)
+[Back to Foobar challenges]({{ "/2015/08/01/google-foobar.html" | prepend: site.baseurl }})
 

@@ -55,5 +55,5 @@ at least 2.
 [Solution](minions_bored_game-solution.html)
 
 
-[Back to Foobar challenges](index.html)
+[Back to Foobar challenges]({{ "/2015/08/01/google-foobar.html" | prepend: site.baseurl }})
 

@@ -34,5 +34,5 @@ x will always be a positive integer, no larger than 1000000000.
 [Solution](peculiar_balance-solution.html)
 
 
-[Back to Foobar challenges](index.html)
+[Back to Foobar challenges]({{ "/2015/08/01/google-foobar.html" | prepend: site.baseurl }})
 

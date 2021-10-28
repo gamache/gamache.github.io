@@ -27,5 +27,5 @@ n will be an integer, satisfying 1 <= n <= 10000.
 [Solution](square_supplies-solution.html)
 
 
-[Back to Foobar challenges](index.html)
+[Back to Foobar challenges]({{ "/2015/08/01/google-foobar.html" | prepend: site.baseurl }})
 
